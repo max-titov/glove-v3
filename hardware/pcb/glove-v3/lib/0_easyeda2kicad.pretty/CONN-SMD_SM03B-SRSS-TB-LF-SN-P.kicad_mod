@@ -185,7 +185,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "3ab98001-033b-4b20-84d1-e4b45dc73ffd")
 	)
-	(model "/Users/max/Files/Nvidia/glove-v3/hardware/pcb/glove-v3/lib/0_easyeda2kicad.3dshapes/CONN-SMD_SR1.00-WS-3P.wrl"
+	(model "${KIPRJMOD}/lib/0_easyeda2kicad.3dshapes/CONN-SMD_SR1.00-WS-3P.wrl"
 		(offset
 			(xyz -1 -0.5 -0)
 		)

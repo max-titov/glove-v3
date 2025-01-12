@@ -613,6 +613,152 @@
 				)
 			)
 		)
+		(symbol "0_easyeda2kicad:C-0402-0.01uF"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "C-0402-0.01uF"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "0_easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C15195"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C-0402-0.01uF_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.03) (xy -0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C-0402-0.01uF_1_1"
+				(pin input line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "0_easyeda2kicad:CD74HC4067M96"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1478,6 +1624,18 @@
 			)
 		)
 	)
+	(junction
+		(at 135.89 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "262929da-7303-4b7c-a73a-2f1dea94de8a")
+	)
+	(junction
+		(at 132.08 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e56dc06f-f8bb-4eb8-bf8e-a4e39ddec83a")
+	)
 	(wire
 		(pts
 			(xy 134.62 115.57) (xy 137.16 115.57)
@@ -1490,6 +1648,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 30.48) (xy 137.16 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b77b2d5-59d1-4f9d-abe7-45a775bd292f")
+	)
+	(wire
+		(pts
 			(xy 173.99 69.85) (xy 176.53 69.85)
 		)
 		(stroke
@@ -1497,6 +1665,26 @@
 			(type default)
 		)
 		(uuid "1c6ce84e-468c-461f-9cd3-aac0c1d598d2")
+	)
+	(wire
+		(pts
+			(xy 132.08 33.02) (xy 137.16 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ba6ed1-5f19-4979-a9e9-bb67f5e39f5e")
+	)
+	(wire
+		(pts
+			(xy 132.08 25.4) (xy 135.89 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ff69094-475e-4ab2-a768-95ee4cf46551")
 	)
 	(wire
 		(pts
@@ -1600,6 +1788,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 25.4) (xy 135.89 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c95b393c-5f3f-43a0-8d5d-2f358b5dd250")
+	)
+	(wire
+		(pts
 			(xy 173.99 46.99) (xy 176.53 46.99)
 		)
 		(stroke
@@ -1617,6 +1815,26 @@
 			(type default)
 		)
 		(uuid "d73057ac-6919-4548-817b-1b44aab2b0e5")
+	)
+	(wire
+		(pts
+			(xy 130.81 33.02) (xy 132.08 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fcd37c-6a08-4c17-8bd8-eded55bae704")
+	)
+	(wire
+		(pts
+			(xy 130.81 30.48) (xy 135.89 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f38fb0f1-ab58-45de-844c-12568acd28e2")
 	)
 	(wire
 		(pts
@@ -2189,7 +2407,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 33.02 270)
+		(at 130.81 33.02 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2198,7 +2416,7 @@
 		(fields_autoplaced yes)
 		(uuid "1199f666-1979-4ee9-a586-e7b1e8b1f7dd")
 		(property "Reference" "#PWR01"
-			(at 130.81 33.02 0)
+			(at 124.46 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2207,7 +2425,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 33.0199 90)
+			(at 127 33.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2216,7 +2434,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 33.02 0)
+			(at 130.81 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2225,7 +2443,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 33.02 0)
+			(at 130.81 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2234,7 +2452,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 33.02 0)
+			(at 130.81 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,6 +3285,84 @@
 		)
 	)
 	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 132.08 29.21 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c5006a1-76f7-4b4f-b2ea-5eefba0109d9")
+		(property "Reference" "C1"
+			(at 132.842 27.178 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 137.16 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 139.7 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 142.24 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 144.78 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9da2b1d5-a12a-4046-908a-9284b822e6be")
+		)
+		(pin "2"
+			(uuid "6ed9eaf9-0de9-4e5a-afb3-c92789b562c1")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
 		(at 181.61 33.02 0)
 		(unit 1)
@@ -3634,16 +3930,15 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 137.16 30.48 90)
+		(at 130.81 30.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "71c70ad3-5f06-4e5e-b4f1-60fc4cb10f2e")
 		(property "Reference" "#PWR02"
-			(at 140.97 30.48 0)
+			(at 134.62 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3652,7 +3947,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 133.35 30.4799 90)
+			(at 127 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3661,7 +3956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 30.48 0)
+			(at 130.81 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3670,7 +3965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 30.48 0)
+			(at 130.81 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3679,7 +3974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 137.16 30.48 0)
+			(at 130.81 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)

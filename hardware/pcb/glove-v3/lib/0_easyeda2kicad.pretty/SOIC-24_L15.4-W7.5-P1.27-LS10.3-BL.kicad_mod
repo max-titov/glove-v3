@@ -301,7 +301,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "53d75309-f1ff-47a4-8c7d-ec5ba546b451")
 	)
-	(model "/Users/max/Files/Nvidia/glove-v3/hardware/pcb/glove-v3/lib/0_easyeda2kicad.3dshapes/SOIC-24_L15.4-W7.5-H2.7-LS10.3-P1.27.wrl"
+	(model "${KIPRJMOD}/lib/0_easyeda2kicad.3dshapes/SOIC-24_L15.4-W7.5-H2.7-LS10.3-P1.27.wrl"
 		(offset
 			(xyz 0 -0 -0)
 		)
