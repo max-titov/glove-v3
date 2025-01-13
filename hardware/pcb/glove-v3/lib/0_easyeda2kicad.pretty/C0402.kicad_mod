@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "C"
+	(property "Reference" "REF**"
 		(at -0.0508 -1.4224 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -65,8 +65,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1 -0.35)
-		(end -1 0.35)
+		(start -1.025 -0.375)
+		(end -1.025 0.368934)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "4b691530-87fe-4bcb-ac1e-26b2046f1e6e")
 	)
 	(fp_line
-		(start 1 -0.35)
-		(end 1 0.35)
+		(start 1.025 -0.36)
+		(end 1.025 0.368934)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -85,9 +85,9 @@
 		(uuid "3d705e04-139b-495d-8793-b1c95034adb3")
 	)
 	(fp_arc
-		(start -1 -0.35)
-		(mid -0.956066 -0.456066)
-		(end -0.85 -0.5)
+		(start -1.025 -0.375)
+		(mid -0.981066 -0.481066)
+		(end -0.875 -0.525)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -96,9 +96,9 @@
 		(uuid "b317223a-b80e-4bbf-99ae-df8acfba85c3")
 	)
 	(fp_arc
-		(start -0.85 0.5)
-		(mid -0.956066 0.456066)
-		(end -1 0.35)
+		(start -0.875 0.518934)
+		(mid -0.981066 0.475)
+		(end -1.025 0.368934)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -107,9 +107,9 @@
 		(uuid "6dda6296-a716-4ba6-92a1-0a92b7cc5c83")
 	)
 	(fp_arc
-		(start 0.85 -0.51)
-		(mid 0.956066 -0.466066)
-		(end 1 -0.36)
+		(start 0.875 -0.518934)
+		(mid 0.981078 -0.475002)
+		(end 1.025 -0.368934)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -118,9 +118,9 @@
 		(uuid "fea0fc4e-b2f0-4f92-b752-245ba4647310")
 	)
 	(fp_arc
-		(start 1 0.35)
-		(mid 0.956066 0.456066)
-		(end 0.85 0.5)
+		(start 1.025 0.368934)
+		(mid 0.981065 0.474997)
+		(end 0.875 0.518934)
 		(stroke
 			(width 0.15)
 			(type solid)

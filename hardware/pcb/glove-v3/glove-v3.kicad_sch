@@ -1625,239 +1625,647 @@
 		)
 	)
 	(junction
-		(at 135.89 30.48)
+		(at 193.04 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "262929da-7303-4b7c-a73a-2f1dea94de8a")
+		(uuid "0006c2aa-5d87-4ab9-ba61-a7303ae86357")
 	)
 	(junction
-		(at 132.08 33.02)
+		(at 127 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e56dc06f-f8bb-4eb8-bf8e-a4e39ddec83a")
+		(uuid "058517f5-1305-4592-8241-565cbecd4796")
+	)
+	(junction
+		(at 142.24 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08f994d6-804f-42ca-bb17-84632e78752f")
+	)
+	(junction
+		(at 182.88 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0de98028-d155-46d0-9b4f-b3f90b092d98")
+	)
+	(junction
+		(at 132.08 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "140de27d-d383-49fd-9e06-81757ec77417")
+	)
+	(junction
+		(at 198.12 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "157b64f2-96ec-4bcf-a32c-f65a073db8f6")
+	)
+	(junction
+		(at 147.32 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "196fb8d1-9bf7-4bdc-bb49-a57aa0188e23")
+	)
+	(junction
+		(at 162.56 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "243b31ba-f213-41ec-b976-ac727c404744")
+	)
+	(junction
+		(at 132.08 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28dbbd44-a746-4877-adc5-aa037d6fd861")
+	)
+	(junction
+		(at 137.16 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "307e9eb5-0829-4fd3-a747-b07871da679f")
+	)
+	(junction
+		(at 193.04 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "383a0fa4-6c55-45c5-955e-521373185d32")
+	)
+	(junction
+		(at 127 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e16cc63-06dd-4229-a34e-2f6e6f2a34f3")
+	)
+	(junction
+		(at 172.72 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4123f121-afda-43e7-bc41-2f88d1186205")
+	)
+	(junction
+		(at 187.96 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "489f2cb2-dc72-40a8-8033-2924a17693bb")
+	)
+	(junction
+		(at 167.64 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4df93b16-ba75-412d-9b40-cfad969b0036")
+	)
+	(junction
+		(at 137.16 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6559f16f-11c1-4ac1-8195-b63b06db84db")
+	)
+	(junction
+		(at 177.8 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b3b8644-fd7c-4464-87ae-13023a0c0875")
+	)
+	(junction
+		(at 152.4 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80db538b-258b-493e-bc80-c3a5326924ed")
+	)
+	(junction
+		(at 187.96 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8efbf6c2-cd52-4c9b-9c8f-68ad8a1dc10a")
+	)
+	(junction
+		(at 157.48 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9395dd34-0e30-48d4-a4f8-1ab4d4ea0345")
+	)
+	(junction
+		(at 147.32 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa648816-3bc0-4e4a-b24e-94fc7457a7c2")
+	)
+	(junction
+		(at 142.24 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1823bff-2fd1-4a3e-9a29-8b6ea7c2514e")
+	)
+	(junction
+		(at 162.56 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3a29ec8-66b7-4294-97d2-3d856c31c9c0")
+	)
+	(junction
+		(at 172.72 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c509a175-0dd1-4a42-91f0-5b26e1198a30")
+	)
+	(junction
+		(at 177.8 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd0d2044-0500-4a04-83be-6bfa3a31243c")
+	)
+	(junction
+		(at 182.88 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e32c199f-1a77-44e1-a3f2-d75100de1594")
+	)
+	(junction
+		(at 198.12 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8f380d3-3b9f-45bd-aea2-dc8e604ef22b")
+	)
+	(junction
+		(at 152.4 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea272bf2-20da-442c-b5da-feb3b7b28c24")
+	)
+	(junction
+		(at 167.64 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb38587b-8660-4b22-baa6-98704bd8baf6")
+	)
+	(junction
+		(at 157.48 19.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd7fb14e-fbcd-450c-9ab2-d0c1d5456d80")
 	)
 	(wire
 		(pts
-			(xy 134.62 115.57) (xy 137.16 115.57)
+			(xy 193.04 19.05) (xy 198.12 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "16b70940-94ba-43bd-a6aa-6c6d6eee3e26")
+		(uuid "00e1f466-8e84-4be8-bd6d-8b3ab5d57d2b")
 	)
 	(wire
 		(pts
-			(xy 135.89 30.48) (xy 137.16 30.48)
+			(xy 127 26.67) (xy 132.08 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1b77b2d5-59d1-4f9d-abe7-45a775bd292f")
+		(uuid "016908e1-3ad0-48de-a29a-5961d1c9ce62")
 	)
 	(wire
 		(pts
-			(xy 173.99 69.85) (xy 176.53 69.85)
+			(xy 187.96 19.05) (xy 193.04 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1c6ce84e-468c-461f-9cd3-aac0c1d598d2")
+		(uuid "1041cc60-8212-4d05-adae-9f1182461c15")
 	)
 	(wire
 		(pts
-			(xy 132.08 33.02) (xy 137.16 33.02)
+			(xy 175.26 50.8) (xy 176.53 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "26ba6ed1-5f19-4979-a9e9-bb67f5e39f5e")
+		(uuid "168f6e1a-7456-493b-a81d-935d4c2fdab7")
 	)
 	(wire
 		(pts
-			(xy 132.08 25.4) (xy 135.89 25.4)
+			(xy 175.26 85.09) (xy 176.53 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ff69094-475e-4ab2-a768-95ee4cf46551")
+		(uuid "1a3a4430-b195-4a4e-bdc0-6b46b80ee4aa")
 	)
 	(wire
 		(pts
-			(xy 173.99 92.71) (xy 176.53 92.71)
+			(xy 193.04 26.67) (xy 198.12 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4294f795-447f-4e22-a6db-ad06b6aab8c6")
+		(uuid "1ce676e0-a602-4180-83ff-6b2965cf3cd9")
 	)
 	(wire
 		(pts
-			(xy 173.99 58.42) (xy 176.53 58.42)
+			(xy 135.89 62.23) (xy 137.16 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5ef19d9a-e312-4062-b470-a09b8b5e535f")
+		(uuid "1e7b4e90-b7d0-4b31-8394-7080b2064b40")
 	)
 	(wire
 		(pts
-			(xy 173.99 81.28) (xy 176.53 81.28)
+			(xy 127 19.05) (xy 132.08 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6234fbbc-5a09-469f-825d-94b90a3f138c")
+		(uuid "20183e82-1057-4556-91e5-ac2fd10159c5")
 	)
 	(wire
 		(pts
-			(xy 134.62 46.99) (xy 137.16 46.99)
+			(xy 172.72 26.67) (xy 177.8 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "659378bc-30f6-4357-a7f9-c9857e27b68b")
+		(uuid "24d87952-2b3d-447f-bb29-cd9e735d964e")
 	)
 	(wire
 		(pts
-			(xy 134.62 92.71) (xy 137.16 92.71)
+			(xy 142.24 19.05) (xy 147.32 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6cfde1ff-2df4-4711-ac6f-ec8bae145c25")
+		(uuid "2ab95ba3-2897-44ec-ac43-aba675d9b382")
 	)
 	(wire
 		(pts
-			(xy 134.62 81.28) (xy 137.16 81.28)
+			(xy 152.4 26.67) (xy 157.48 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74d89110-07b0-4ef7-ba10-305c8c7d38ec")
+		(uuid "2d6334d2-83d1-487a-8e94-2d8fb63cf0aa")
 	)
 	(wire
 		(pts
-			(xy 134.62 104.14) (xy 137.16 104.14)
+			(xy 132.08 19.05) (xy 137.16 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a97ffe6e-9b1e-4a48-bfdd-e07389cb454f")
+		(uuid "2d915d4c-b5cc-4ada-a174-a97e93eb3d1f")
 	)
 	(wire
 		(pts
-			(xy 173.99 35.56) (xy 176.53 35.56)
+			(xy 167.64 19.05) (xy 172.72 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6a2b7a7-c4a4-4884-b72b-e2e882e7d5c9")
+		(uuid "2f070400-b781-4848-9389-f7ec9db9c2e7")
 	)
 	(wire
 		(pts
-			(xy 173.99 104.14) (xy 176.53 104.14)
+			(xy 135.89 96.52) (xy 137.16 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bd023d9e-d71f-4dc0-86f5-7c88bf3d76bf")
+		(uuid "2f987ad6-61b6-4fc6-82e5-3f98e5a6a261")
 	)
 	(wire
 		(pts
-			(xy 134.62 69.85) (xy 137.16 69.85)
+			(xy 198.12 19.05) (xy 203.2 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be4b27d8-4584-4357-a27b-67c5a4043394")
+		(uuid "388f4ea1-f49d-4ee2-a1ee-75e3128aafdb")
 	)
 	(wire
 		(pts
-			(xy 135.89 25.4) (xy 135.89 30.48)
+			(xy 175.26 119.38) (xy 176.53 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c95b393c-5f3f-43a0-8d5d-2f358b5dd250")
+		(uuid "6e53b2ca-2753-462f-8f76-f7974be370f0")
 	)
 	(wire
 		(pts
-			(xy 173.99 46.99) (xy 176.53 46.99)
+			(xy 135.89 85.09) (xy 137.16 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd5d12b8-8e65-4497-bb9e-ae498fb12d61")
+		(uuid "6fac7487-b845-4a5d-ace3-2f0ec61c0c96")
 	)
 	(wire
 		(pts
-			(xy 134.62 58.42) (xy 137.16 58.42)
+			(xy 198.12 26.67) (xy 203.2 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d73057ac-6919-4548-817b-1b44aab2b0e5")
+		(uuid "73fc3919-5728-476d-a3e1-7ecde4bfc66a")
 	)
 	(wire
 		(pts
-			(xy 130.81 33.02) (xy 132.08 33.02)
+			(xy 135.89 119.38) (xy 137.16 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0fcd37c-6a08-4c17-8bd8-eded55bae704")
+		(uuid "74708d53-41a3-4a17-ae11-794529d3660a")
 	)
 	(wire
 		(pts
-			(xy 130.81 30.48) (xy 135.89 30.48)
+			(xy 162.56 26.67) (xy 167.64 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f38fb0f1-ab58-45de-844c-12568acd28e2")
+		(uuid "771ed094-8dc5-456e-97b7-474cea3f5d85")
 	)
 	(wire
 		(pts
-			(xy 173.99 115.57) (xy 176.53 115.57)
+			(xy 182.88 26.67) (xy 187.96 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f59f904f-7b51-48b9-bb80-9e4bac6a48eb")
+		(uuid "7b1ff7e7-047d-4008-a166-86cc9d2ef1d5")
 	)
 	(wire
 		(pts
-			(xy 134.62 35.56) (xy 137.16 35.56)
+			(xy 137.16 19.05) (xy 142.24 19.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ff9db726-d723-476b-8990-ec4d1989c9f7")
+		(uuid "7c4044c6-b385-40c6-8b53-648330ccd95f")
 	)
-	(label "HALL_0"
-		(at 173.99 104.14 180)
+	(wire
+		(pts
+			(xy 152.4 19.05) (xy 157.48 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ec53a8e-4680-43e2-962c-044087f95e2d")
+	)
+	(wire
+		(pts
+			(xy 182.88 19.05) (xy 187.96 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86770fbf-0907-41c6-91a7-39d3168bf136")
+	)
+	(wire
+		(pts
+			(xy 187.96 26.67) (xy 193.04 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87aaf858-bb33-4546-b1df-36320d442c1d")
+	)
+	(wire
+		(pts
+			(xy 175.26 96.52) (xy 176.53 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87eea0fd-8782-4f19-ab78-a9a3ce1d0054")
+	)
+	(wire
+		(pts
+			(xy 147.32 19.05) (xy 152.4 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8936b94d-11e6-42dc-9df5-caa65fca67aa")
+	)
+	(wire
+		(pts
+			(xy 175.26 73.66) (xy 176.53 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b47c11b-0b36-4e6d-9428-9de34830b4e1")
+	)
+	(wire
+		(pts
+			(xy 175.26 39.37) (xy 176.53 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ba0a6b2-9b24-4ba0-9bfe-fc58686f88f3")
+	)
+	(wire
+		(pts
+			(xy 157.48 26.67) (xy 162.56 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3cd046-192e-4372-9d0e-03dda127b0ea")
+	)
+	(wire
+		(pts
+			(xy 167.64 26.67) (xy 172.72 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c6bd014-e918-4fb7-a856-7c198476f0fd")
+	)
+	(wire
+		(pts
+			(xy 132.08 26.67) (xy 137.16 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9decc851-6168-4d9a-b90b-b965d23b6360")
+	)
+	(wire
+		(pts
+			(xy 177.8 19.05) (xy 182.88 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e9af9bb-453e-49ce-af96-a32bacdc2a7d")
+	)
+	(wire
+		(pts
+			(xy 175.26 62.23) (xy 176.53 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab74ebac-14a5-4723-a0ab-c8138263f997")
+	)
+	(wire
+		(pts
+			(xy 147.32 26.67) (xy 152.4 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abb605ec-b679-4848-b87b-69efe080fbe1")
+	)
+	(wire
+		(pts
+			(xy 157.48 19.05) (xy 162.56 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b22b4c53-2eae-4aff-9d47-f49c2c13266d")
+	)
+	(wire
+		(pts
+			(xy 135.89 107.95) (xy 137.16 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c20359e3-7e93-4cb9-88c0-3118de1f12a2")
+	)
+	(wire
+		(pts
+			(xy 162.56 19.05) (xy 167.64 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc724414-aa26-482b-9689-2d15057f487a")
+	)
+	(wire
+		(pts
+			(xy 177.8 26.67) (xy 182.88 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf2c6f80-7391-4812-84de-57ac5cd4fbd6")
+	)
+	(wire
+		(pts
+			(xy 172.72 19.05) (xy 177.8 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d232ddb4-5b80-487b-a308-231a7f3e0ac6")
+	)
+	(wire
+		(pts
+			(xy 137.16 26.67) (xy 142.24 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d28d80b2-0aeb-4c52-87be-f9a9c365aa14")
+	)
+	(wire
+		(pts
+			(xy 135.89 50.8) (xy 137.16 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d79960a0-f271-4297-83a3-f0d4ffa75543")
+	)
+	(wire
+		(pts
+			(xy 135.89 73.66) (xy 137.16 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e978a207-ef16-45ef-ba2a-7a0e681f6c02")
+	)
+	(wire
+		(pts
+			(xy 175.26 107.95) (xy 176.53 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f22326f5-d2f4-4d4b-833c-173c643c98ce")
+	)
+	(wire
+		(pts
+			(xy 142.24 26.67) (xy 147.32 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f23bbd7d-bb85-4228-8010-bd824f0178d9")
+	)
+	(wire
+		(pts
+			(xy 135.89 39.37) (xy 137.16 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f785c083-333b-45bf-be26-9f2bbb5c06fc")
+	)
+	(label "S2"
+		(at 45.72 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1865,10 +2273,21 @@
 			)
 			(justify right)
 		)
-		(uuid "17ed74d4-9f15-4bc5-84d7-2e7aee844435")
+		(uuid "04a0655e-b82d-4800-93d3-3d62a705abaf")
 	)
-	(label "HALL_0"
-		(at 134.62 58.42 180)
+	(label "HALL_12"
+		(at 92.71 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05cacf16-a708-4e4f-8b6d-a8d082d00b77")
+	)
+	(label "HALL_3"
+		(at 175.26 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1876,10 +2295,21 @@
 			)
 			(justify right)
 		)
-		(uuid "18c55fbe-7c60-40b5-8084-c73265d5d838")
+		(uuid "0f1a6025-e149-4045-8783-8a1e10b182d3")
 	)
-	(label "HALL_0"
-		(at 173.99 92.71 180)
+	(label "S2"
+		(at 92.71 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1192fdba-8e94-42d5-bff9-7de8b9373760")
+	)
+	(label "S0"
+		(at 46.99 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1887,10 +2317,10 @@
 			)
 			(justify right)
 		)
-		(uuid "21d9a2cf-eb38-4ff5-a018-e21ce44aa487")
+		(uuid "19d7393b-7002-4f55-b0e5-d13a4d222287")
 	)
-	(label "HALL_0"
-		(at 173.99 35.56 180)
+	(label "MUX_OUT"
+		(at 46.99 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1898,10 +2328,21 @@
 			)
 			(justify right)
 		)
-		(uuid "2654ec37-181f-437e-935f-6859cfd2fa71")
+		(uuid "1bced16a-59d1-4aec-92f1-988460d32b92")
 	)
-	(label "HALL_0"
-		(at 134.62 92.71 180)
+	(label "HALL_15"
+		(at 92.71 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d36b9f2-a5f8-4f98-9d3d-81e5e6e5936e")
+	)
+	(label "HALL_5"
+		(at 46.99 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1909,10 +2350,21 @@
 			)
 			(justify right)
 		)
-		(uuid "4a3307bc-1013-4966-b2c5-43596c98f64b")
+		(uuid "27c78f4e-965b-47cb-9af5-dbc2c9d6fbe6")
 	)
-	(label "HALL_0"
-		(at 173.99 115.57 180)
+	(label "S0"
+		(at 95.25 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b42f5c8-4f62-4b52-8e8d-082c5c4ff458")
+	)
+	(label "MUX_OUT"
+		(at 45.72 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1920,10 +2372,10 @@
 			)
 			(justify right)
 		)
-		(uuid "6c4e8c34-1743-4139-a264-8636455728d6")
+		(uuid "39d4f35b-6c92-4374-abf4-4918915c4bc0")
 	)
-	(label "HALL_0"
-		(at 173.99 58.42 180)
+	(label "HALL_2"
+		(at 175.26 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1931,10 +2383,10 @@
 			)
 			(justify right)
 		)
-		(uuid "bbae4717-e31d-4c3d-be3c-4d037db7847e")
+		(uuid "3bf03d17-4461-4032-b270-c618808997a7")
 	)
-	(label "HALL_0"
-		(at 173.99 81.28 180)
+	(label "HALL_9"
+		(at 135.89 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1942,10 +2394,10 @@
 			)
 			(justify right)
 		)
-		(uuid "cceaafc7-af7a-4b2b-88eb-b16efdb94edc")
+		(uuid "3e082b7b-c6bc-4795-9c42-a24218cc987b")
 	)
-	(label "HALL_0"
-		(at 173.99 46.99 180)
+	(label "HALL_3"
+		(at 46.99 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1953,10 +2405,10 @@
 			)
 			(justify right)
 		)
-		(uuid "d328e832-0551-4872-9e45-0b14f22a1864")
+		(uuid "3e85d249-9d7a-468d-b909-65c0e6266fe1")
 	)
-	(label "HALL_0"
-		(at 134.62 104.14 180)
+	(label "HALL_8"
+		(at 135.89 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1964,10 +2416,21 @@
 			)
 			(justify right)
 		)
-		(uuid "d5a21109-a651-4d2f-b505-581c33c39ab4")
+		(uuid "4f773acf-ac83-43ed-95db-191887dc46be")
 	)
-	(label "HALL_0"
-		(at 134.62 81.28 180)
+	(label "HALL_14"
+		(at 92.71 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ae65a74-ec5b-416f-ad7b-34b765b3f4df")
+	)
+	(label "HALL_6"
+		(at 175.26 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1975,10 +2438,10 @@
 			)
 			(justify right)
 		)
-		(uuid "d65f7db0-b4ed-45bc-b1c3-fd8d1144f924")
+		(uuid "605417aa-9e57-40f0-b68d-9b640f35b27c")
 	)
-	(label "HALL_0"
-		(at 173.99 69.85 180)
+	(label "HALL_10"
+		(at 135.89 96.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1986,10 +2449,241 @@
 			)
 			(justify right)
 		)
-		(uuid "d9df5699-4c8a-4b31-b0ab-9ca6c61b2af0")
+		(uuid "60a6e010-de97-420e-8c05-7e031446af6e")
+	)
+	(label "S1"
+		(at 46.99 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "662fcebf-94c0-4fdb-9f1d-4bc5b3992903")
+	)
+	(label "HALL_7"
+		(at 175.26 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "694e88bf-3100-4557-9ceb-748fee10e8b7")
+	)
+	(label "S1"
+		(at 95.25 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6d397562-f3ca-4d6d-bf90-ca38e0895be5")
+	)
+	(label "HALL_4"
+		(at 175.26 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "72d10087-31c7-4ea5-ac9a-ba60c5e43154")
+	)
+	(label "HALL_1"
+		(at 175.26 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73f6e0d9-62cd-4482-8ac2-fc749fbef55c")
+	)
+	(label "HALL_11"
+		(at 92.71 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7af41bdd-e4d4-48e3-8204-027d038ebc48")
+	)
+	(label "HALL_7"
+		(at 46.99 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "825b5ca5-ec5c-49c0-b43d-b5f2b058c266")
+	)
+	(label "HALL_1"
+		(at 46.99 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8531e589-7c1a-4d2c-ab90-2e2ba71238d7")
+	)
+	(label "HALL_6"
+		(at 46.99 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "863498a3-0971-479e-bf36-c352b5d99033")
+	)
+	(label "HALL_12"
+		(at 135.89 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a1d7b59-9651-43c5-a3c1-cfe986855e2d")
+	)
+	(label "HALL_8"
+		(at 92.71 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "904d71aa-9b6a-483d-bcca-f483c6ea5c82")
 	)
 	(label "HALL_0"
-		(at 134.62 35.56 180)
+		(at 46.99 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9533da14-46a2-4c9e-a12a-0f05d5fdb5e9")
+	)
+	(label "HALL_11"
+		(at 135.89 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9b7e70eb-bb7c-40a9-ac85-68ae72ead62d")
+	)
+	(label "HALL_9"
+		(at 92.71 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e405c6e-51cc-4613-b46c-f03cf4501334")
+	)
+	(label "HALL_4"
+		(at 46.99 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b0e08ce3-ca98-41a5-beba-54312152c015")
+	)
+	(label "HALL_5"
+		(at 175.26 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b68b274f-255c-4d08-ae8c-b6e7c9f4501b")
+	)
+	(label "S3"
+		(at 45.72 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ba061c41-4e4a-4107-85d8-9dc0ca32afff")
+	)
+	(label "HALL_13"
+		(at 135.89 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "be338fe5-df7d-481b-bc16-f2bf116a9630")
+	)
+	(label "HALL_14"
+		(at 135.89 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c9d032b9-1251-4c19-a5bc-15037e008290")
+	)
+	(label "S3"
+		(at 92.71 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce7eb66b-315f-4bab-8674-9466aec0851f")
+	)
+	(label "HALL_13"
+		(at 92.71 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d811b7b4-c0bb-4f31-97d7-6fe5d96a5655")
+	)
+	(label "HALL_15"
+		(at 135.89 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1999,8 +2693,8 @@
 		)
 		(uuid "de5b7de0-bdea-4959-b167-e8b514e20b9c")
 	)
-	(label "HALL_0"
-		(at 134.62 115.57 180)
+	(label "HALL_2"
+		(at 46.99 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2008,10 +2702,10 @@
 			)
 			(justify right)
 		)
-		(uuid "e15451e0-5bb5-4f68-8c6b-097732d6f92b")
+		(uuid "e309752c-5120-4973-928c-a8385dfff00a")
 	)
 	(label "HALL_0"
-		(at 134.62 46.99 180)
+		(at 175.26 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2019,18 +2713,18 @@
 			)
 			(justify right)
 		)
-		(uuid "eadf0705-1e5f-422d-a51f-f1879a277aaa")
+		(uuid "e315f7ad-56a8-4f10-99f4-5f35c5685fd2")
 	)
-	(label "HALL_0"
-		(at 134.62 69.85 180)
+	(label "HALL_10"
+		(at 92.71 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "f1023fdc-e760-4243-95a0-d2a9a8db5f02")
+		(uuid "f145d199-da47-4099-9bb8-69a0a12e8036")
 	)
 	(symbol
 		(lib_id "0_XIAO-ESP32C3:XIAO-ESP32C3")
@@ -2138,17 +2832,176 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 99.06 90)
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 162.56 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "01e67808-b99d-4de4-a51a-d5d2199100c7")
+		(property "Reference" "C8"
+			(at 163.322 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 167.64 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 170.18 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 172.72 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 175.26 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13b03975-42d5-407a-b478-8c55bfd5ec6c")
+		)
+		(pin "2"
+			(uuid "55b93a97-8fd3-4969-8dd8-39610f65d9f7")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 142.24 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "02aba2df-b691-479e-b1e8-c30d6d186623")
-		(property "Reference" "#PWR029"
-			(at 180.34 99.06 0)
+		(uuid "070fdbd4-1a2c-4669-a894-ad6115a672f8")
+		(property "Reference" "H10"
+			(at 151.13 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 151.13 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 142.24 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 142.24 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "32bd2be8-4706-413b-9baa-2409fee85eb9")
+		)
+		(pin "1"
+			(uuid "ca76f4d9-517f-4b28-b4a6-636e15cac211")
+		)
+		(pin "3"
+			(uuid "de8d13d4-2e3e-435a-a31c-183b6e204228")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 92.71 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07624964-763c-440c-9ee3-01de42fd25d6")
+		(property "Reference" "#PWR035"
+			(at 88.9 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2157,7 +3010,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 172.72 99.0599 90)
+			(at 96.52 77.4701 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +3019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 99.06 0)
+			(at 92.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,7 +3028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 99.06 0)
+			(at 92.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2184,7 +3037,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 99.06 0)
+			(at 92.71 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2193,38 +3046,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "38992701-2c9a-4970-b972-e8d970e607e8")
+			(uuid "b8c441ce-b473-4993-bcca-04480ca632f2")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR029")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 176.53 55.88 270)
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 142.24 22.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03fc356b-a50d-49f4-9339-a2355ee334fa")
-		(property "Reference" "#PWR022"
-			(at 170.18 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 55.8799 90)
+		(uuid "0798091d-04ad-4848-a104-f0c837d2f894")
+		(property "Reference" "C12"
+			(at 143.002 20.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,8 +3075,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 176.53 55.88 0)
+		(property "Value" "C-0402-0.01uF"
+			(at 147.32 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2241,8 +3084,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 176.53 55.88 0)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 149.86 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2250,8 +3093,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 55.88 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 152.4 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 154.94 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2260,38 +3121,32 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0832c79-1098-4dc8-8768-09ab2de5201f")
+			(uuid "b9c23b2c-d80f-41ec-bfda-0f49393dd55d")
+		)
+		(pin "2"
+			(uuid "db614a06-eb7b-45b3-af9d-5bfe48afd599")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR022")
+					(reference "C12")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 64.77 90)
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "05410c08-a141-487d-9010-7b443afdc4a3")
-		(property "Reference" "#PWR023"
-			(at 180.34 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 64.7699 90)
+		(uuid "0b2979bb-7165-4085-94ea-de44fc6e4cfa")
+		(property "Reference" "H7"
+			(at 190.5 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2299,8 +3154,17 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 176.53 64.77 0)
+		(property "Value" "JST-SM03B"
+			(at 190.5 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2308,8 +3172,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 176.53 64.77 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2317,22 +3181,37 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 64.77 0)
+		(property "Description" ""
+			(at 181.61 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "05abd437-be58-4e67-a710-6cf2af17ea7c")
 		)
 		(pin "1"
-			(uuid "adddc0d2-3ccf-42c4-b01b-f65b5a440fa6")
+			(uuid "c36c9f23-c68d-478a-94f6-717f7d3371e1")
+		)
+		(pin "3"
+			(uuid "ceb36708-2d4c-4ee3-b047-fc276c60f4ee")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR023")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -2340,16 +3219,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 90.17 270)
+		(at 176.53 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0b365f01-f95e-4ab5-b143-eec9ccd1d597")
-		(property "Reference" "#PWR012"
-			(at 130.81 90.17 0)
+		(uuid "0fbd4819-5efb-4530-9468-53a4e32e9378")
+		(property "Reference" "#PWR019"
+			(at 170.18 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2358,7 +3237,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 90.1699 90)
+			(at 172.72 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2367,7 +3246,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 90.17 0)
+			(at 176.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2376,7 +3255,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 90.17 0)
+			(at 176.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2385,7 +3264,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 90.17 0)
+			(at 176.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2394,12 +3273,90 @@
 			)
 		)
 		(pin "1"
-			(uuid "de2a6a20-890d-45b0-8852-7844f9a1e339")
+			(uuid "850baabc-61ee-467a-880f-1572ff069e93")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR012")
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 152.4 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10b9a657-e689-4cad-a2ba-c06fe9ffe358")
+		(property "Reference" "C10"
+			(at 153.162 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 157.48 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 160.02 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 162.56 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 165.1 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2a565d1-e494-4213-a7a3-4393005d4c07")
+		)
+		(pin "2"
+			(uuid "7dfed40b-3569-40a7-a791-315791ee77bd")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -2407,7 +3364,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 33.02 270)
+		(at 137.16 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2416,7 +3373,7 @@
 		(fields_autoplaced yes)
 		(uuid "1199f666-1979-4ee9-a586-e7b1e8b1f7dd")
 		(property "Reference" "#PWR01"
-			(at 124.46 33.02 0)
+			(at 130.81 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2425,7 +3382,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 33.0199 90)
+			(at 133.35 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2434,7 +3391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 33.02 0)
+			(at 137.16 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2443,7 +3400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 33.02 0)
+			(at 137.16 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2452,7 +3409,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 33.02 0)
+			(at 137.16 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2473,35 +3430,25 @@
 		)
 	)
 	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 67.31 0)
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 167.64 22.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "134bc203-d417-475c-b5d7-15563c573c52")
-		(property "Reference" "H11"
-			(at 190.5 66.0399 0)
+		(uuid "1d534134-912e-4539-8274-ae5af08f4498")
+		(property "Reference" "C7"
+			(at 168.402 20.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 68.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 82.55 0)
+		(property "Value" "C-0402-0.01uF"
+			(at 172.72 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2509,8 +3456,17 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 85.09 0)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 175.26 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 177.8 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2519,7 +3475,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 67.31 0)
+			(at 167.64 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2527,110 +3483,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 87.63 0)
+		(property "LCSC Part" "C15195"
+			(at 180.34 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "360018cd-4e5f-42c5-aa3a-5d85146e5243")
 		)
 		(pin "1"
-			(uuid "958899e8-f1c3-494a-8163-3c455f625fed")
+			(uuid "185c6405-63df-4281-8bd0-77a056fc7a21")
 		)
-		(pin "3"
-			(uuid "9db06845-d805-4fdf-bf11-c081913d97b7")
+		(pin "2"
+			(uuid "64b9213e-3954-482f-baee-54890360d521")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a1766a0-4542-48f0-a559-112f116f4298")
-		(property "Reference" "H15"
-			(at 190.5 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 114.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9b32401a-7b26-46c5-9b3f-4663fa01b593")
-		)
-		(pin "1"
-			(uuid "b92e36dd-68ef-4ba8-8ba2-b3bacd05803c")
-		)
-		(pin "3"
-			(uuid "96de1e82-c531-4e9d-a3eb-65c9df4969b4")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H15")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -2638,16 +3509,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 67.31 270)
+		(at 137.16 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1be75450-50a0-44a0-8bbd-a6cfff9a1c41")
-		(property "Reference" "#PWR08"
-			(at 130.81 67.31 0)
+		(uuid "1d675257-dea2-4a8c-97c9-c1e609b92ae3")
+		(property "Reference" "#PWR011"
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +3527,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 67.3099 90)
+			(at 133.35 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,7 +3536,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 67.31 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2674,7 +3545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 67.31 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2683,7 +3554,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 67.31 0)
+			(at 137.16 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2692,47 +3563,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "8b8a7d89-391d-4588-97f4-72bf3fe7da9a")
+			(uuid "a0ae7340-445e-4d68-a74f-08ff5a8fa5eb")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR08")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 90.17 0)
+		(lib_id "power:GND")
+		(at 176.53 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1e68f106-afce-43eb-81ea-fac08f3193fc")
-		(property "Reference" "H13"
-			(at 190.5 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 105.41 0)
+		(uuid "20b85f5d-45a3-40fa-aec6-9ac61bfc0cf9")
+		(property "Reference" "#PWR033"
+			(at 170.18 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2740,8 +3593,17 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 107.95 0)
+		(property "Value" "GND"
+			(at 172.72 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,8 +3611,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 181.61 90.17 0)
+		(property "Datasheet" ""
+			(at 176.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2758,28 +3620,156 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 110.49 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "80754d2e-1c02-46a7-be59-b6e575baacfa")
 		)
 		(pin "1"
-			(uuid "55b8b72e-e11e-4c6b-84ae-a9148a57474b")
-		)
-		(pin "3"
-			(uuid "e0f50e08-bfde-45a8-a132-dab14aa6dde0")
+			(uuid "19e24754-1f53-4176-9af7-17aee0fee0c2")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H13")
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 92.71 100.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2569cd62-f94c-47b7-81c0-e39aefd2c97b")
+		(property "Reference" "#PWR037"
+			(at 99.06 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 92.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c02f234-7106-4a5b-9226-bc29a867188a")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 137.16 110.49 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2685ee03-6981-4ab5-b477-7a9efc91b39f")
+		(property "Reference" "#PWR015"
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 137.16 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d1db3356-66e5-4491-9287-ed66d6d7a509")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -2787,7 +3777,7 @@
 	)
 	(symbol
 		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 33.02 0)
+		(at 142.24 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2795,8 +3785,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28191758-0444-4e39-8aab-a834046b52a6")
-		(property "Reference" "H0"
-			(at 151.13 31.7499 0)
+		(property "Reference" "H15"
+			(at 151.13 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2805,7 +3795,7 @@
 			)
 		)
 		(property "Value" "JST-SM03B"
-			(at 151.13 34.2899 0)
+			(at 151.13 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2814,7 +3804,7 @@
 			)
 		)
 		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 48.26 0)
+			(at 142.24 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2823,7 +3813,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 50.8 0)
+			(at 142.24 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2832,7 +3822,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 33.02 0)
+			(at 142.24 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2841,7 +3831,7 @@
 			)
 		)
 		(property "LCSC Part" "C160403"
-			(at 142.24 53.34 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2861,91 +3851,23 @@
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H0")
+					(reference "H15")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 137.16 113.03 270)
+		(lib_id "power:+3V3")
+		(at 176.53 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3e5d6492-dc1a-49f2-95d8-8f07341dcbe1")
-		(property "Reference" "#PWR016"
-			(at 130.81 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 133.35 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "946b7ffb-dae6-4911-a218-dd77a6a2e319")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 176.53 101.6 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "401c6d01-9afa-4779-b8a8-1ebfdfab6a9b")
+		(uuid "2d0e5a32-c0ca-4cf3-9bac-f94c5a0b7d03")
 		(property "Reference" "#PWR030"
-			(at 170.18 101.6 0)
+			(at 180.34 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2953,13 +3875,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "+3V3"
 			(at 172.72 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -2980,7 +3902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 176.53 101.6 0)
 			(effects
 				(font
@@ -2990,7 +3912,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "74e645ab-7a8a-4cce-985a-10181ce1f360")
+			(uuid "4b1fb749-dbfa-4cfe-9e67-71b71e028e61")
 		)
 		(instances
 			(project "glove-v3"
@@ -3002,84 +3924,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 176.53 113.03 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4143c664-fd1b-4e29-85bf-f0afdd9d8ef6")
-		(property "Reference" "#PWR032"
-			(at 170.18 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "12c23494-9c85-404f-bc34-e53d24757995")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 90.17 0)
+		(at 142.24 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4419017b-88f3-4dc7-9ba1-1976d79b633b")
-		(property "Reference" "H5"
-			(at 151.13 88.8999 0)
+		(uuid "30372633-9be8-46f7-a2bd-5d45a95e6126")
+		(property "Reference" "H9"
+			(at 151.13 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +3943,7 @@
 			)
 		)
 		(property "Value" "JST-SM03B"
-			(at 151.13 91.4399 0)
+			(at 151.13 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3097,7 +3952,7 @@
 			)
 		)
 		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 105.41 0)
+			(at 142.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3106,7 +3961,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 107.95 0)
+			(at 142.24 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3115,15 +3970,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
 			(at 142.24 110.49 0)
 			(effects
 				(font
@@ -3132,86 +3978,28 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
-			(uuid "d080a009-4d2b-4fe0-b542-05222e3435a0")
+			(uuid "9294d82a-07dd-409e-9cdb-7cd51c69b8e1")
 		)
 		(pin "1"
-			(uuid "bcf7a031-543a-4091-b4fe-237ce3d55378")
+			(uuid "119938a6-a071-40c2-a605-acb85aa9b40d")
 		)
 		(pin "3"
-			(uuid "69d0c534-1681-4712-aed1-400d0813de37")
+			(uuid "90e3e51f-c787-4bac-b22e-25bc51fd0ee4")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 55.88 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "443dd35a-0985-4208-a5aa-d1e19cb780f6")
-		(property "Reference" "#PWR06"
-			(at 130.81 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 133.35 55.8799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "16795eb9-b4b3-4084-97e8-9a4db32ccc61")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR06")
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -3219,16 +4007,15 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 176.53 41.91 90)
+		(at 137.16 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4a87f478-7020-4dbb-b6b3-bca24417baee")
-		(property "Reference" "#PWR019"
-			(at 180.34 41.91 0)
+		(uuid "309320ab-5c4d-4860-9d36-bdba8fcaa4e3")
+		(property "Reference" "#PWR014"
+			(at 140.97 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3237,7 +4024,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 172.72 41.9099 90)
+			(at 133.35 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3246,7 +4033,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 41.91 0)
+			(at 137.16 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3255,7 +4042,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 41.91 0)
+			(at 137.16 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3264,7 +4051,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 41.91 0)
+			(at 137.16 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3273,12 +4060,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "cb8211ca-e8f0-4ec2-b815-9a2baa69157e")
+			(uuid "61c809fc-18a5-4b80-adc1-922f9e006eb6")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR019")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -3286,15 +4073,15 @@
 	)
 	(symbol
 		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
-		(at 132.08 29.21 90)
+		(at 193.04 22.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4c5006a1-76f7-4b4f-b2ea-5eefba0109d9")
-		(property "Reference" "C1"
-			(at 132.842 27.178 90)
+		(uuid "3294e4ee-3b0c-4752-9953-64c7c3a231fe")
+		(property "Reference" "C2"
+			(at 193.802 20.828 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3303,7 +4090,7 @@
 			)
 		)
 		(property "Value" "C-0402-0.01uF"
-			(at 137.16 29.21 0)
+			(at 198.12 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3312,7 +4099,7 @@
 			)
 		)
 		(property "Footprint" "0_easyeda2kicad:C0402"
-			(at 139.7 29.21 0)
+			(at 200.66 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3321,7 +4108,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
-			(at 142.24 29.21 0)
+			(at 203.2 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3330,7 +4117,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.08 29.21 0)
+			(at 193.04 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3339,7 +4126,670 @@
 			)
 		)
 		(property "LCSC Part" "C15195"
-			(at 144.78 29.21 0)
+			(at 205.74 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61cca2ec-6c42-467e-b3f0-e9bfaf21b5a4")
+		)
+		(pin "2"
+			(uuid "e41d862e-2890-422d-8bf1-c4f1da439375")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33af0536-e533-4227-8147-b1f91d435e17")
+		(property "Reference" "H2"
+			(at 190.5 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "950d6188-5fda-4baa-9efe-eb7b8fc984e6")
+		)
+		(pin "1"
+			(uuid "c9448885-911b-43c8-9da0-81e595d3b66c")
+		)
+		(pin "3"
+			(uuid "73941f0d-f1bb-43da-a356-993b93947b26")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 95.25 39.37 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "37e28579-5566-42e5-80e5-99d13e0b824e")
+		(property "Reference" "#PWR039"
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 99.06 39.3701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 95.25 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3662b66-2cd9-46af-a5a7-6f076fc51603")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 142.24 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ab4d521-b2cb-43e2-8986-16c46586842f")
+		(property "Reference" "H8"
+			(at 151.13 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 151.13 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 142.24 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 142.24 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b15bcf0-81bb-4f3f-a3ca-84171ead7d2f")
+		)
+		(pin "1"
+			(uuid "c7e6911f-ba41-4d6a-9943-4fdb558714d4")
+		)
+		(pin "3"
+			(uuid "d2d2bacd-5f51-457a-90ba-d682cedb382e")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 147.32 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b4e8716-ac80-4a4c-829a-af5dc5310c1e")
+		(property "Reference" "C11"
+			(at 148.082 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 152.4 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 154.94 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 157.48 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 160.02 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5cae4e6-8395-4a09-b0ac-09c6efb92c00")
+		)
+		(pin "2"
+			(uuid "fe16c766-eb3e-4c49-a621-077685b0b743")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 26.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "401a8552-55a0-442a-b70a-1771e652ed72")
+		(property "Reference" "#PWR03"
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "512f0624-0f0e-4011-a19d-ef919551510d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 132.08 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "411d0dca-93a8-4de9-b190-fe619b2488d2")
+		(property "Reference" "C14"
+			(at 132.842 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 137.16 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 139.7 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 142.24 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 144.78 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "77100c3d-0160-45a3-9cf5-93f008f6c711")
+		)
+		(pin "2"
+			(uuid "f00f4572-aadd-4214-ad78-43b6606fb30d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 46.99 105.41 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45010e32-bd84-47d2-bbc9-dfcb7f781b85")
+		(property "Reference" "#PWR036"
+			(at 40.64 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3780455f-b244-43af-9b6b-341cf70736ae")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 78.74 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "48553f48-57bc-4158-96d1-42e1fdefad2d")
+		(property "Reference" "#PWR010"
+			(at 140.97 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b638ec56-9997-437c-8d8e-a9cc870dfdba")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 127 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c5006a1-76f7-4b4f-b2ea-5eefba0109d9")
+		(property "Reference" "C15"
+			(at 127.762 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 132.08 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 134.62 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 137.16 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 139.7 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +4806,7 @@
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "C1")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -3364,16 +4814,16 @@
 	)
 	(symbol
 		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 33.02 0)
+		(at 142.24 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "504dc2a2-e1f8-41b9-8961-1d975974f080")
-		(property "Reference" "H8"
-			(at 190.5 31.7499 0)
+		(uuid "54cee1f0-4560-4a08-894f-a8b185988e10")
+		(property "Reference" "H14"
+			(at 151.13 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3382,7 +4832,7 @@
 			)
 		)
 		(property "Value" "JST-SM03B"
-			(at 190.5 34.2899 0)
+			(at 151.13 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3391,7 +4841,7 @@
 			)
 		)
 		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 48.26 0)
+			(at 142.24 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3400,7 +4850,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 50.8 0)
+			(at 142.24 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3409,7 +4859,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 33.02 0)
+			(at 142.24 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3418,7 +4868,7 @@
 			)
 		)
 		(property "LCSC Part" "C160403"
-			(at 181.61 53.34 0)
+			(at 142.24 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3427,18 +4877,18 @@
 			)
 		)
 		(pin "2"
-			(uuid "f68abe14-54e9-4771-9060-5e73baf9cc4f")
+			(uuid "8f4410c0-76a8-498c-9f3f-36215186aeef")
 		)
 		(pin "1"
-			(uuid "3643a096-8cf6-46c6-8d96-d364f7310678")
+			(uuid "6b3e863c-2d3f-4683-a5f4-e47e18e04024")
 		)
 		(pin "3"
-			(uuid "75ac3be5-0c8d-4345-b3de-c03528ebb2bc")
+			(uuid "7ef6a06b-3db1-4816-b10d-1b361c14cf59")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H8")
+					(reference "H14")
 					(unit 1)
 				)
 			)
@@ -3446,16 +4896,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 67.31 270)
+		(at 176.53 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "52921f6b-31c6-45d6-a836-4d4e53e94c3f")
-		(property "Reference" "#PWR024"
-			(at 170.18 67.31 0)
+		(uuid "55b69d3b-883c-4290-82a1-249e411eb5da")
+		(property "Reference" "#PWR027"
+			(at 170.18 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3464,7 +4914,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.72 67.3099 90)
+			(at 172.72 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3473,7 +4923,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 67.31 0)
+			(at 176.53 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3482,7 +4932,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 67.31 0)
+			(at 176.53 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3491,7 +4941,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 67.31 0)
+			(at 176.53 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,245 +4950,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "3e6c2334-ccaf-4b60-81a5-c30504a62f2c")
+			(uuid "cc50ac1a-4949-4039-bdd9-7a8e476179bb")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR024")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 53.34 90)
+		(lib_id "power:GND")
+		(at 137.16 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "57aa3ef2-9ec7-4119-acd5-64860afed751")
-		(property "Reference" "#PWR021"
-			(at 180.34 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 53.3399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b010e0ad-8335-47d4-ac50-ddd23414a160")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "57d31428-2ca7-473f-8d25-e89b38ab5b96")
-		(property "Reference" "#PWR031"
-			(at 180.34 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 110.4899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef084aff-5656-4b97-b6e0-642a9871e62a")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "60bad496-e225-43ca-81e7-4b8a740282d3")
-		(property "Reference" "H7"
-			(at 151.13 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 114.2999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c7a37280-ff6e-4ffc-abec-d95d456520e7")
-		)
-		(pin "1"
-			(uuid "af385c23-fd2e-4c0e-99b7-1befa7dfbc8a")
-		)
-		(pin "3"
-			(uuid "62570be3-f101-4d6d-b961-16ea2e8e80c2")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 137.16 53.34 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "66738e75-5255-444a-a10b-a001eae0b37b")
+		(uuid "5b784545-1598-46ad-aae6-c42317f9624c")
 		(property "Reference" "#PWR05"
-			(at 140.97 53.34 0)
+			(at 130.81 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3746,13 +4980,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "GND"
 			(at 133.35 53.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -3773,7 +5007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 137.16 53.34 0)
 			(effects
 				(font
@@ -3783,7 +5017,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "eec4be0a-d116-4e2b-86c5-89b5bf117348")
+			(uuid "ca114b09-e478-4f39-a46f-5c73b42c7f8b")
 		)
 		(instances
 			(project "glove-v3"
@@ -3795,150 +5029,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 176.53 78.74 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c5eb792-a221-407f-a9f3-2db925baebc6")
-		(property "Reference" "#PWR026"
-			(at 170.18 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 78.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9af4784b-c8e7-4b6c-b49d-5b79e8cb2ec1")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 101.6 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d40ae7c-8cde-41f2-be02-dddadb6a8ca3")
-		(property "Reference" "#PWR014"
-			(at 130.81 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 133.35 101.5999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c807fa9-5f2c-4783-85e8-498730a9a667")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
-		(at 130.81 30.48 90)
+		(at 137.16 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "71c70ad3-5f06-4e5e-b4f1-60fc4cb10f2e")
-		(property "Reference" "#PWR02"
-			(at 134.62 30.48 0)
+		(uuid "5f25f3de-b93b-442e-ae2b-fe6a57ad6aa3")
+		(property "Reference" "#PWR08"
+			(at 140.97 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3947,7 +5047,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 127 30.4799 90)
+			(at 133.35 67.3099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,7 +5056,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 30.48 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3965,7 +5065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 30.48 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3974,7 +5074,537 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 130.81 30.48 0)
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc4e4af2-d802-4ad7-bd1f-b2b071fedd71")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ff53296-d3ad-4d23-8bc4-76144206e843")
+		(property "Reference" "#PWR012"
+			(at 140.97 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d49cf5f8-a6d4-45df-afe9-f7cc219406af")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 203.2 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "69518f4f-95d6-4d14-af42-43ca9ce918b1")
+		(property "Reference" "C0"
+			(at 203.962 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 208.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 210.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 213.36 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 203.2 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 215.9 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6e478a3-532b-445e-85db-2aa69f46b819")
+		)
+		(pin "2"
+			(uuid "80526a56-8610-47e1-a7b8-9e12d227fefb")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 137.16 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a556e89-dc7a-41b4-8e20-6c1135c836c2")
+		(property "Reference" "C13"
+			(at 137.922 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 142.24 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 144.78 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 147.32 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 149.86 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4161ed2b-dbdc-45f3-9688-0c414f855cd8")
+		)
+		(pin "2"
+			(uuid "f95437ba-de17-4ee1-81e8-ec195cead418")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 187.96 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e066740-4352-410f-b8e8-3e4813e2bbf1")
+		(property "Reference" "C3"
+			(at 188.722 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 193.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 195.58 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 198.12 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 187.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 200.66 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5d886f7f-3ec0-4a1a-acf3-da0540bf3429")
+		)
+		(pin "2"
+			(uuid "2e6ff736-4537-41b3-aab1-f98728510267")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 142.24 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f499122-7749-451c-897e-8fde362ce89e")
+		(property "Reference" "H12"
+			(at 151.13 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 151.13 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 142.24 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7e507d17-d827-4abe-abda-4c782f021801")
+		)
+		(pin "1"
+			(uuid "ed2f3557-30af-4655-8ebd-74b9180c70b9")
+		)
+		(pin "3"
+			(uuid "bf42aa9a-e8b3-45c9-97dd-1638fea1c05a")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 142.24 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "714312ec-5e71-423c-99a1-72e2fd15d771")
+		(property "Reference" "H11"
+			(at 151.13 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 151.13 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 142.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 142.24 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7fba780e-32b6-4600-9b8c-a222bce10298")
+		)
+		(pin "1"
+			(uuid "9b81f702-ff69-47bb-8724-8bb16bfda9e6")
+		)
+		(pin "3"
+			(uuid "b4842e6d-0a35-42b6-9a06-b834c95a8d8d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "71c70ad3-5f06-4e5e-b4f1-60fc4cb10f2e")
+		(property "Reference" "#PWR02"
+			(at 140.97 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,6 +5619,84 @@
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 182.88 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74253091-3c39-49a1-beca-0bde9708a153")
+		(property "Reference" "C4"
+			(at 183.642 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 187.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 190.5 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 193.04 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 195.58 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf22c237-35aa-4d75-a950-115dc09291c3")
+		)
+		(pin "2"
+			(uuid "89f73676-5996-4826-a562-d0e7e22cfdc0")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4138,911 +5846,17 @@
 		)
 	)
 	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7dfb4ca7-3871-4071-8003-55e76e43ec32")
-		(property "Reference" "H6"
-			(at 151.13 100.3299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 102.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "17e9224b-69c7-454f-a39d-4a8ad3e90e52")
-		)
-		(pin "1"
-			(uuid "961fd5cf-0101-4d7c-8075-1f77cbd8f199")
-		)
-		(pin "3"
-			(uuid "021bb5af-7753-4299-8167-a48bb9e5ba95")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 176.53 44.45 270)
+		(at 137.16 76.2 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7e322431-0126-4b13-ab80-56f57f2aa815")
-		(property "Reference" "#PWR020"
-			(at 170.18 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 44.4499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "74f94bff-5569-4f8f-90a0-844ad97cee47")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 137.16 64.77 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "807e3651-9268-4964-a94f-d18c520ecd3f")
-		(property "Reference" "#PWR07"
-			(at 140.97 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 133.35 64.7699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 137.16 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b1415ca7-0a06-4533-91e5-3b8bb745cd0d")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83b4d58f-a21a-42b1-9581-b433507ceb62")
-		(property "Reference" "H2"
-			(at 151.13 54.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "781d0ce8-126e-4024-9503-1f31100e34ed")
-		)
-		(pin "1"
-			(uuid "248c8863-0fff-456d-906b-1b7db1fe9319")
-		)
-		(pin "3"
-			(uuid "ab824796-dfc9-4789-a0e2-6d26c86490cb")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 76.2 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e428213-8f1e-4c32-9da6-85665dfaa36a")
-		(property "Reference" "#PWR025"
-			(at 180.34 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 76.1999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "816baa4d-79b8-4c12-852d-e831510ef833")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "918e28b0-00b3-48d6-b35c-81e764f95067")
-		(property "Reference" "H4"
-			(at 151.13 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 80.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ea3f1b53-daf8-495b-9569-49d35a805f22")
-		)
-		(pin "1"
-			(uuid "2f212da5-bcba-478f-aca4-8a966b6b2464")
-		)
-		(pin "3"
-			(uuid "ff85f643-3feb-4303-8abe-1d9f51e5c0aa")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94df5b73-6633-466a-aa0a-42844c392913")
-		(property "Reference" "H3"
-			(at 151.13 66.0399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 68.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8576c3f6-a39c-4a2a-aeab-18814f6e4fa2")
-		)
-		(pin "1"
-			(uuid "29a1abd7-5fac-40e9-9a16-4847db59a18d")
-		)
-		(pin "3"
-			(uuid "83227c4d-3cb4-491d-baac-417071ceab23")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b5c1c39-1702-44b2-8ed2-3c19d8d69e1c")
-		(property "Reference" "H9"
-			(at 190.5 43.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e2e5550f-2b5c-4024-8f49-d00410b6bda6")
-		)
-		(pin "1"
-			(uuid "62f367f8-11eb-46f4-904a-aed2533062f6")
-		)
-		(pin "3"
-			(uuid "dad04d8d-d6ac-4ac8-8f1a-fcc0517004c5")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 142.24 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a3240a1d-62d6-4ea5-b4b6-580d1f1c56ee")
-		(property "Reference" "H1"
-			(at 151.13 43.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 151.13 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 142.24 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 142.24 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 142.24 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 142.24 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e2bbfdaa-7ba1-4419-b609-db0f58346d5e")
-		)
-		(pin "1"
-			(uuid "13920f09-fd1c-4f3e-8a1a-6f3a6aebcf7c")
-		)
-		(pin "3"
-			(uuid "04d433ee-9a33-4659-bfc5-bd4157fb1059")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 30.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b5846031-b060-4111-924c-c388424de92e")
-		(property "Reference" "#PWR017"
-			(at 180.34 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 30.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1af6e7a0-8cde-4b8a-9456-e593ee553923")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 176.53 87.63 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "befbc078-ffe8-45ea-917c-e72454450767")
-		(property "Reference" "#PWR027"
-			(at 180.34 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 172.72 87.6299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 176.53 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8a461a3f-2548-4231-8a95-b5fba0d2c95e")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 176.53 90.17 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bff4851d-066e-4ebb-9855-ac68005f7501")
-		(property "Reference" "#PWR028"
-			(at 170.18 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 172.72 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 176.53 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f96562db-6887-477a-86c2-171974c88e76")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 137.16 76.2 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c342c39d-9433-4b37-9dd1-35fca6e54aa4")
+		(uuid "78bf794e-7131-494a-bf99-34ba56de3902")
 		(property "Reference" "#PWR09"
-			(at 140.97 76.2 0)
+			(at 130.81 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5050,13 +5864,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "GND"
 			(at 133.35 76.1999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -5077,7 +5891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 137.16 76.2 0)
 			(effects
 				(font
@@ -5087,7 +5901,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1d9ef764-60d0-48e3-a292-6b1c451fd512")
+			(uuid "bccdcdfb-eee6-4239-a4c3-c4508c7a8ec7")
 		)
 		(instances
 			(project "glove-v3"
@@ -5099,17 +5913,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 176.53 33.02 270)
+		(lib_id "power:+3V3")
+		(at 176.53 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce1151ea-2ebe-4433-8664-89bfe64b754a")
-		(property "Reference" "#PWR018"
-			(at 170.18 33.02 0)
+		(uuid "7cc7922e-4794-4ae3-b5a8-66c6cc18ea78")
+		(property "Reference" "#PWR020"
+			(at 180.34 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,17 +5930,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 172.72 33.0199 90)
+		(property "Value" "+3V3"
+			(at 172.72 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 33.02 0)
+			(at 176.53 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5136,7 +5949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 33.02 0)
+			(at 176.53 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5144,8 +5957,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 33.02 0)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5154,7 +5967,233 @@
 			)
 		)
 		(pin "1"
-			(uuid "701949b1-b8b0-49f2-94b4-2eed0e80247c")
+			(uuid "811d0a2f-97a6-4225-9500-99236eee2b6d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 157.48 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82b7896c-b95f-43af-833d-9ace2caa02ee")
+		(property "Reference" "C9"
+			(at 158.242 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 162.56 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 165.1 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 167.64 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 170.18 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28042f45-e2d7-4f42-a329-84ad50aa93c0")
+		)
+		(pin "2"
+			(uuid "85561f50-17a1-47ed-b2b4-98896192f54d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 142.24 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85330b12-0489-451b-af09-14bdad338270")
+		(property "Reference" "H13"
+			(at 151.13 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 151.13 66.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 142.24 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 142.24 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 142.24 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 142.24 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b42c1fbe-795d-40e4-891d-411b6b9b9158")
+		)
+		(pin "1"
+			(uuid "bb14e1e6-6c2c-4cc0-986c-29692f9dfcae")
+		)
+		(pin "3"
+			(uuid "7a3ac467-87a6-4dec-a607-fc888a72f13f")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "867a0885-619a-4da8-9ac0-0eedbfa773aa")
+		(property "Reference" "#PWR018"
+			(at 140.97 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bc41c198-9a05-45dc-8fa6-e8e4a8954757")
 		)
 		(instances
 			(project "glove-v3"
@@ -5167,16 +6206,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 44.45 270)
+		(at 176.53 99.06 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d84fc1c0-acbd-403e-866f-6a5b58d3ecae")
-		(property "Reference" "#PWR04"
-			(at 130.81 44.45 0)
+		(uuid "86855b83-2f5f-4d9a-8e9a-462b603f28fa")
+		(property "Reference" "#PWR029"
+			(at 170.18 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5185,7 +6224,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 44.4499 90)
+			(at 172.72 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5194,7 +6233,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 44.45 0)
+			(at 176.53 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5203,7 +6242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 44.45 0)
+			(at 176.53 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5212,7 +6251,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 44.45 0)
+			(at 176.53 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5221,7 +6260,151 @@
 			)
 		)
 		(pin "1"
-			(uuid "ded04a66-d6ac-4453-bd76-62874ccfeaed")
+			(uuid "65264560-aa7d-455b-b5b5-6aa7fee884ff")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 177.8 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d986137-f4f9-4bd1-a3e1-7438123d22d8")
+		(property "Reference" "C5"
+			(at 178.562 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 182.88 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 185.42 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 187.96 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 190.5 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "402d6788-7abc-4703-b809-e3ca3d085132")
+		)
+		(pin "2"
+			(uuid "979235d2-67c4-40cc-bc49-17e19f7a0796")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 127 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8e69f924-27ff-476f-aa09-53c996b8b44a")
+		(property "Reference" "#PWR04"
+			(at 127 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 127.0001 15.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 127 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb4e9139-34e2-4f29-a233-021b8dd6a68f")
 		)
 		(instances
 			(project "glove-v3"
@@ -5233,248 +6416,17 @@
 		)
 	)
 	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d92925e1-5f8c-4dc6-a892-67cf4eb1d25d")
-		(property "Reference" "H10"
-			(at 190.5 54.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b514ff0b-3b0c-4116-ad86-4822658d6e6c")
-		)
-		(pin "1"
-			(uuid "d4f5fd28-2d1a-4b30-8edc-2a7c9be42c05")
-		)
-		(pin "3"
-			(uuid "b1757b9b-8d50-4600-8f36-b0ff393e132b")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 137.16 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd9e81ce-d7d3-431a-83f4-19c65585cb7d")
-		(property "Reference" "#PWR015"
-			(at 140.97 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 133.35 110.4899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 137.16 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 137.16 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "30141e3f-b1dd-4c4a-a006-dda984c9b3da")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1f55551-f33d-4cd1-acde-1d3d51bec354")
-		(property "Reference" "H14"
-			(at 190.5 100.3299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 102.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C160403"
-			(at 181.61 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2314fa16-829c-4afe-b696-863283fb6ebc")
-		)
-		(pin "1"
-			(uuid "099f2624-92f4-4c03-974d-3784c78e105f")
-		)
-		(pin "3"
-			(uuid "b892312a-eb47-4324-a93d-70fcd6bdc804")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 137.16 78.74 270)
+		(at 137.16 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f24a3cda-d382-41bc-99ee-fd9e3f14972f")
-		(property "Reference" "#PWR010"
-			(at 130.81 78.74 0)
+		(uuid "9626f761-daad-4136-9bb9-be47aa24e492")
+		(property "Reference" "#PWR07"
+			(at 130.81 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5483,7 +6435,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.35 78.7399 90)
+			(at 133.35 64.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5492,7 +6444,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 78.74 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5501,7 +6453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 78.74 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5510,7 +6462,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 78.74 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5519,38 +6471,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "171259eb-ef62-4e79-b2d3-1d8ac826f9a6")
+			(uuid "31697b35-62b3-43de-b938-59fab295a8e6")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR010")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 137.16 87.63 90)
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f48c83cb-cbae-4ce1-84a5-9d805155ad5c")
-		(property "Reference" "#PWR011"
-			(at 140.97 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 133.35 87.6299 90)
+		(uuid "9662793b-f960-4b74-8f47-db7485d2382d")
+		(property "Reference" "H6"
+			(at 190.5 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5558,8 +6501,99 @@
 				(justify left)
 			)
 		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b07249ce-1330-4833-aaec-dcb58c2e404e")
+		)
+		(pin "1"
+			(uuid "1413654b-5423-45f7-b987-29ea49c56be3")
+		)
+		(pin "3"
+			(uuid "745f41a4-a372-47b6-a44c-d53f7611ad63")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 53.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac2c6dc9-8f32-4ee0-a3fe-a53a22bc0a20")
+		(property "Reference" "#PWR021"
+			(at 170.18 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 53.3399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(property "Footprint" ""
-			(at 137.16 87.63 0)
+			(at 176.53 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5568,7 +6602,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 87.63 0)
+			(at 176.53 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,8 +6610,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 137.16 87.63 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5586,12 +6620,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0a027e61-916f-462b-b0a4-84c8c45c2559")
+			(uuid "781b1151-5667-4088-98fc-7104db82a472")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR011")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -5599,16 +6633,15 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 137.16 41.91 90)
+		(at 137.16 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f64d23e0-da6b-4cfd-a749-9df08d1aa9eb")
-		(property "Reference" "#PWR03"
-			(at 140.97 41.91 0)
+		(uuid "af45cdaf-666c-4a5b-8634-c5a08367a27b")
+		(property "Reference" "#PWR06"
+			(at 140.97 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5617,7 +6650,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 133.35 41.9099 90)
+			(at 133.35 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,7 +6659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 41.91 0)
+			(at 137.16 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5635,7 +6668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 41.91 0)
+			(at 137.16 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5644,7 +6677,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 137.16 41.91 0)
+			(at 137.16 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5653,12 +6686,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "b3b3a8f0-3cd9-42d4-b0ec-a0313d8f89fa")
+			(uuid "6c2c779f-12d3-4944-9b9e-b115ac4129dc")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "#PWR03")
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 110.49 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "afaaf004-1e11-4477-b878-7dfd0869e1be")
+		(property "Reference" "#PWR031"
+			(at 170.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9988f7eb-f86d-440f-ab22-8b435c7171b2")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -5666,16 +6766,364 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 137.16 99.06 90)
+		(at 176.53 67.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b40d32d6-2414-4bb8-b70a-a1135c23fb0a")
+		(property "Reference" "#PWR024"
+			(at 180.34 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 172.72 67.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af659b8f-022f-4df1-a752-87d70449b39f")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f7e09210-c680-4fb2-a8aa-cf9f31967f80")
+		(uuid "b478eb3e-9e70-4b7f-b538-970f8990315a")
+		(property "Reference" "#PWR023"
+			(at 170.18 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a05147aa-9fa9-4155-9714-af126568a874")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 137.16 121.92 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6126d73-f381-4abe-bf88-c1275595e9a1")
+		(property "Reference" "#PWR017"
+			(at 130.81 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 137.16 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a517a79e-f496-4fe0-8e3c-5a166decd1d7")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b64b94a1-c217-4b5e-bbf9-4cf724e09b28")
+		(property "Reference" "H3"
+			(at 190.5 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d95d08a8-3549-4304-90ae-5c4207e884b4")
+		)
+		(pin "1"
+			(uuid "d003b581-12df-42ca-95cb-c8efdbef62e3")
+		)
+		(pin "3"
+			(uuid "b40e5595-c369-4f11-9a1b-996c6927c7c3")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 137.16 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "be30150a-32c7-42bf-891b-394a8880c402")
+		(property "Reference" "#PWR016"
+			(at 140.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 133.35 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 137.16 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2902a35b-0d2a-4d48-bdb6-bbcf4950decf")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 137.16 99.06 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be3bcd41-bf4c-45c7-b394-5b2a897f15d0")
 		(property "Reference" "#PWR013"
-			(at 140.97 99.06 0)
+			(at 130.81 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,13 +7131,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "GND"
 			(at 133.35 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -5710,7 +7158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 137.16 99.06 0)
 			(effects
 				(font
@@ -5720,7 +7168,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "df61d013-b8fa-49ab-b36a-df469035b346")
+			(uuid "1ef0ec29-9a72-4d18-8a02-29318085e072")
 		)
 		(instances
 			(project "glove-v3"
@@ -5732,35 +7180,16 @@
 		)
 	)
 	(symbol
-		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
-		(at 181.61 78.74 0)
+		(lib_id "power:+3V3")
+		(at 176.53 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd0b50f6-37fa-4eab-a32c-ffa55aefece8")
-		(property "Reference" "H12"
-			(at 190.5 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "JST-SM03B"
-			(at 190.5 80.0099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
-			(at 181.61 93.98 0)
+		(uuid "bf2d31c7-584a-4b62-a83c-7416a3a902f8")
+		(property "Reference" "#PWR026"
+			(at 180.34 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5768,8 +7197,159 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
-			(at 181.61 96.52 0)
+		(property "Value" "+3V3"
+			(at 172.72 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51768c94-9943-4910-bbda-8783b7cba186")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c213b036-4e8f-4551-a7d5-9cc0938d671e")
+		(property "Reference" "#PWR025"
+			(at 170.18 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 76.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "212f3b5e-ca6c-48b6-a3e3-2653cf77dd71")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 172.72 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d9796899-40f6-495f-aa0c-93e88d1aa328")
+		(property "Reference" "C6"
+			(at 173.482 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 177.8 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 180.34 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 182.88 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5778,7 +7358,152 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 78.74 0)
+			(at 172.72 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 185.42 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c941496-ac33-4092-9b65-ea28c0a3ae25")
+		)
+		(pin "2"
+			(uuid "edf28dd4-a192-4011-ac79-11bafed077ee")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 176.53 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc0b8fc8-8411-42fd-9d14-bb710c642a90")
+		(property "Reference" "#PWR022"
+			(at 180.34 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 172.72 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e19f1741-41db-4713-be2e-3477c4c4d5d7")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc24c855-41b2-44af-a650-938a13d0da62")
+		(property "Reference" "H5"
+			(at 190.5 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 66.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,7 +7512,7 @@
 			)
 		)
 		(property "LCSC Part" "C160403"
-			(at 181.61 99.06 0)
+			(at 181.61 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5796,18 +7521,607 @@
 			)
 		)
 		(pin "2"
-			(uuid "ebf9a689-62bb-4611-bc99-4afbab0f3a96")
+			(uuid "75ccbdb6-e6e9-48a2-96ff-0a53c0eb283e")
 		)
 		(pin "1"
-			(uuid "70c2ee16-7147-4540-93f7-b017a961837f")
+			(uuid "22f51fd6-e462-4290-85c7-f3290261689f")
 		)
 		(pin "3"
-			(uuid "629a69a4-8c0d-4487-8799-1e9fcb937a45")
+			(uuid "f2a152be-d30b-48fd-b10f-13fe3f9d6901")
 		)
 		(instances
 			(project "glove-v3"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "H12")
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 176.53 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc5daf05-1eaf-4495-88e7-6e4b485af09f")
+		(property "Reference" "#PWR028"
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 172.72 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9dedad8c-f8f4-4f8b-a47e-614b9b406de6")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e10b9e63-8359-45e0-93eb-143aa2f01dbf")
+		(property "Reference" "H0"
+			(at 190.5 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "374ae654-a28c-4231-9c39-c436a89e32ca")
+		)
+		(pin "1"
+			(uuid "66ef4e75-a729-4a7f-a972-f4b6eadbbad8")
+		)
+		(pin "3"
+			(uuid "d7cd68ca-a1e4-4e1d-863b-27924f36879f")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H0")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8389bd3-af8b-48bd-9058-fc550e9e2035")
+		(property "Reference" "H1"
+			(at 190.5 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d5ff16ce-6f8a-4049-80d7-f3c3960ea5a0")
+		)
+		(pin "1"
+			(uuid "f016f68e-1ef7-41b8-9f66-51c0551912c2")
+		)
+		(pin "3"
+			(uuid "4664c24e-c990-4ded-88fc-14cf0f46541d")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 176.53 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9895ba0-0a4e-4f73-9e37-32e09e9bd62f")
+		(property "Reference" "#PWR032"
+			(at 180.34 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 172.72 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13427dfd-1c8a-468b-8426-6b89eecdac06")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.01uF")
+		(at 198.12 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9bbfb66-e342-4171-9fc0-11e3ccbf21f0")
+		(property "Reference" "C1"
+			(at 198.882 20.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.01uF"
+			(at 203.2 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 205.74 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B103KB5NNNC_10nF-103-10-50V_C15195.html"
+			(at 208.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 198.12 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15195"
+			(at 210.82 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b7823c44-a6ee-4037-a8a7-027321b77675")
+		)
+		(pin "2"
+			(uuid "cab0d159-5054-49a1-8311-4154fe9034a5")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:SM03B-SRSS-TB(LF)(SN)(P)")
+		(at 181.61 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9de9087-b7ff-4e55-9e44-2f63738a5f94")
+		(property "Reference" "H4"
+			(at 190.5 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "JST-SM03B"
+			(at 190.5 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
+			(at 181.61 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_JST-Sales-America__JST-Sales-America-SM03B-SRSS-TB-LF-SN-P_C160403.html"
+			(at 181.61 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 181.61 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160403"
+			(at 181.61 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "81fded7f-205c-46de-bf03-9d2d10e48112")
+		)
+		(pin "1"
+			(uuid "17e1cc50-8aad-4998-94ba-3d02a95a5864")
+		)
+		(pin "3"
+			(uuid "75b632c7-1d41-4267-a49a-934178d46825")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 95.25 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "faa3f8ff-bf36-4daa-be88-a68d7a77e576")
+		(property "Reference" "#PWR038"
+			(at 101.6 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 99.06 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 95.25 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "017750b4-0b24-4a0f-9191-afbd6decdc04")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 176.53 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe501c72-6b08-4fa8-9666-9bd4e2a703c9")
+		(property "Reference" "#PWR034"
+			(at 180.34 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 172.72 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 176.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea0863a8-ad53-47a7-95f6-30cb66125aa3")
+		)
+		(instances
+			(project "glove-v3"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)

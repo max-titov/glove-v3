@@ -17,6 +17,7 @@
 	(property "Value" "CONN-SMD_SM03B-SRSS-TB-LF-SN-P"
 		(at 0 5.94 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "9df0ef89-bab8-493b-baef-ff6e8da3dd8f")
 		(effects
 			(font
@@ -64,7 +65,7 @@
 	(attr smd)
 	(fp_line
 		(start -2.5 -1.62)
-		(end -2.5 0.7)
+		(end -2.5 0.6)
 		(stroke
 			(width 0.25)
 			(type solid)
@@ -74,7 +75,7 @@
 	)
 	(fp_line
 		(start -2.5 -1.62)
-		(end -1.53 -1.62)
+		(end -1.6 -1.62)
 		(stroke
 			(width 0.25)
 			(type solid)
@@ -93,8 +94,8 @@
 		(uuid "1804e99d-a071-41c6-adef-2b2fdfa5f744")
 	)
 	(fp_line
-		(start -1.32 2.63)
-		(end 1.32 2.63)
+		(start -1.2 2.63)
+		(end 1.2 2.63)
 		(stroke
 			(width 0.25)
 			(type solid)
@@ -103,7 +104,7 @@
 		(uuid "c89faa21-83d2-436d-a767-f7ab7b9b0bed")
 	)
 	(fp_line
-		(start 1.53 -1.62)
+		(start 1.6 -1.62)
 		(end 2.5 -1.62)
 		(stroke
 			(width 0.25)
@@ -114,7 +115,7 @@
 	)
 	(fp_line
 		(start 2.5 -1.62)
-		(end 2.5 0.7)
+		(end 2.5 0.6)
 		(stroke
 			(width 0.25)
 			(type solid)
@@ -147,6 +148,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "0df6d2b4-8c78-4e77-bb29-597c77d5e2e8")
 		(effects
 			(font
