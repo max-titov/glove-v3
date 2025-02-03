@@ -915,7 +915,7 @@
 				)
 			)
 		)
-		(symbol "0_easyeda2kicad:C-0402-0.1uF"
+		(symbol "0_easyeda2kicad:C-0402-0.1uF-16V"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -927,7 +927,7 @@
 					)
 				)
 			)
-			(property "Value" "C-0402-0.1uF"
+			(property "Value" "C-0402-0.1uF-16V"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -945,8 +945,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B104KO5NNNC_100nF-104-10-16V_C1525.html"
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -963,8 +963,8 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part" "C960916"
-				(at 0 -10.16 0)
+			(property "LCSC Part" "C1525"
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -972,7 +972,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "C-0402-0.1uF_0_1"
+			(symbol "C-0402-0.1uF-16V_0_1"
 				(polyline
 					(pts
 						(xy -0.51 -2.03) (xy -0.51 2.03)
@@ -1022,7 +1022,7 @@
 					)
 				)
 			)
-			(symbol "C-0402-0.1uF_1_1"
+			(symbol "C-0402-0.1uF-16V_1_1"
 				(pin unspecified line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -1987,12 +1987,6 @@
 		(uuid "307e9eb5-0829-4fd3-a747-b07871da679f")
 	)
 	(junction
-		(at 95.25 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "364cc79d-58d4-49ba-aabd-d84d54ffa542")
-	)
-	(junction
 		(at 193.04 19.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2105,6 +2099,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb38587b-8660-4b22-baa6-98704bd8baf6")
+	)
+	(junction
+		(at 95.25 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2964e44-8062-49d4-a5f6-2de6cea16091")
 	)
 	(junction
 		(at 157.48 19.05)
@@ -2264,17 +2264,17 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 77.47) (xy 92.71 77.47)
+			(xy 95.25 77.47) (xy 97.79 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5fbc04d9-b359-4ad5-986f-a300c5a97c40")
+		(uuid "5b62ca05-0f3f-4715-ac21-1e87e508093d")
 	)
 	(wire
 		(pts
-			(xy 97.79 77.47) (xy 95.25 77.47)
+			(xy 92.71 77.47) (xy 95.25 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3151,7 +3151,7 @@
 			(uuid "1f7aa9ab-7bcf-4353-aff4-716156161d7a")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "U1")
 					(unit 1)
@@ -3229,7 +3229,7 @@
 			(uuid "55b93a97-8fd3-4969-8dd8-39610f65d9f7")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C8")
 					(unit 1)
@@ -3295,7 +3295,7 @@
 			(uuid "f86485b4-a30c-47a9-a2e2-9a045e6367d4")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR040")
 					(unit 1)
@@ -3362,7 +3362,7 @@
 			(uuid "c717d28d-8291-4440-a560-4b3888c615c6")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR041")
 					(unit 1)
@@ -3444,7 +3444,7 @@
 			(uuid "de8d13d4-2e3e-435a-a31c-183b6e204228")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H10")
 					(unit 1)
@@ -3510,7 +3510,7 @@
 			(uuid "b8c441ce-b473-4993-bcca-04480ca632f2")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR035")
 					(unit 1)
@@ -3588,7 +3588,7 @@
 			(uuid "db614a06-eb7b-45b3-af9d-5bfe48afd599")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C12")
 					(unit 1)
@@ -3670,7 +3670,7 @@
 			(uuid "ceb36708-2d4c-4ee3-b047-fc276c60f4ee")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H7")
 					(unit 1)
@@ -3737,7 +3737,7 @@
 			(uuid "850baabc-61ee-467a-880f-1572ff069e93")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR019")
 					(unit 1)
@@ -3815,7 +3815,7 @@
 			(uuid "7dfed40b-3569-40a7-a791-315791ee77bd")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C10")
 					(unit 1)
@@ -3882,7 +3882,7 @@
 			(uuid "b120eac5-d85e-4fd1-b9b6-846af44a9f2f")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR01")
 					(unit 1)
@@ -3960,7 +3960,7 @@
 			(uuid "64b9213e-3954-482f-baee-54890360d521")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C7")
 					(unit 1)
@@ -4027,7 +4027,7 @@
 			(uuid "a0ae7340-445e-4d68-a74f-08ff5a8fa5eb")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR011")
 					(unit 1)
@@ -4094,7 +4094,7 @@
 			(uuid "19e24754-1f53-4176-9af7-17aee0fee0c2")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR033")
 					(unit 1)
@@ -4161,7 +4161,7 @@
 			(uuid "5c02f234-7106-4a5b-9226-bc29a867188a")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR037")
 					(unit 1)
@@ -4228,7 +4228,7 @@
 			(uuid "d1db3356-66e5-4491-9287-ed66d6d7a509")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR015")
 					(unit 1)
@@ -4310,7 +4310,7 @@
 			(uuid "c784ea2e-749d-4b8b-b546-14a06d6e20ea")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H15")
 					(unit 1)
@@ -4376,7 +4376,7 @@
 			(uuid "4b1fb749-dbfa-4cfe-9e67-71b71e028e61")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR030")
 					(unit 1)
@@ -4458,7 +4458,7 @@
 			(uuid "90e3e51f-c787-4bac-b22e-25bc51fd0ee4")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H9")
 					(unit 1)
@@ -4524,7 +4524,7 @@
 			(uuid "61c809fc-18a5-4b80-adc1-922f9e006eb6")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR014")
 					(unit 1)
@@ -4602,7 +4602,7 @@
 			(uuid "e41d862e-2890-422d-8bf1-c4f1da439375")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C2")
 					(unit 1)
@@ -4684,7 +4684,7 @@
 			(uuid "73941f0d-f1bb-43da-a356-993b93947b26")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H2")
 					(unit 1)
@@ -4750,7 +4750,7 @@
 			(uuid "b3662b66-2cd9-46af-a5a7-6f076fc51603")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR039")
 					(unit 1)
@@ -4832,7 +4832,7 @@
 			(uuid "d2d2bacd-5f51-457a-90ba-d682cedb382e")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H8")
 					(unit 1)
@@ -4910,7 +4910,7 @@
 			(uuid "fe16c766-eb3e-4c49-a621-077685b0b743")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C11")
 					(unit 1)
@@ -4976,7 +4976,7 @@
 			(uuid "512f0624-0f0e-4011-a19d-ef919551510d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR03")
 					(unit 1)
@@ -5054,7 +5054,7 @@
 			(uuid "f00f4572-aadd-4214-ad78-43b6606fb30d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C14")
 					(unit 1)
@@ -5121,7 +5121,7 @@
 			(uuid "3780455f-b244-43af-9b6b-341cf70736ae")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR036")
 					(unit 1)
@@ -5187,7 +5187,7 @@
 			(uuid "b638ec56-9997-437c-8d8e-a9cc870dfdba")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR010")
 					(unit 1)
@@ -5265,88 +5265,9 @@
 			(uuid "6ed9eaf9-0de9-4e5a-afb3-c92789b562c1")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "0_easyeda2kicad:C-0402-0.1uF")
-		(at 95.25 72.39 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53004fba-4bc7-496b-bd3b-1340670e8682")
-		(property "Reference" "C16"
-			(at 99.06 72.3899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "C-0402-0.1uF"
-			(at 100.33 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "0_easyeda2kicad:C0402"
-			(at 102.87 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 95.25 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C960916"
-			(at 105.41 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0df5e5c4-b3de-4116-9209-ef33d418b1d8")
-		)
-		(pin "1"
-			(uuid "77c7a8bb-0f49-4206-aae1-854e75fb9761")
-		)
-		(instances
-			(project "glove-v3"
-				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
-					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5426,7 +5347,7 @@
 			(uuid "7ef6a06b-3db1-4816-b10d-1b361c14cf59")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H14")
 					(unit 1)
@@ -5493,7 +5414,7 @@
 			(uuid "cc50ac1a-4949-4039-bdd9-7a8e476179bb")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR027")
 					(unit 1)
@@ -5560,7 +5481,7 @@
 			(uuid "ca114b09-e478-4f39-a46f-5c73b42c7f8b")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR05")
 					(unit 1)
@@ -5626,7 +5547,7 @@
 			(uuid "dc4e4af2-d802-4ad7-bd1f-b2b071fedd71")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR08")
 					(unit 1)
@@ -5692,7 +5613,7 @@
 			(uuid "d49cf5f8-a6d4-45df-afe9-f7cc219406af")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR012")
 					(unit 1)
@@ -5770,7 +5691,7 @@
 			(uuid "80526a56-8610-47e1-a7b8-9e12d227fefb")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C0")
 					(unit 1)
@@ -5848,7 +5769,7 @@
 			(uuid "f95437ba-de17-4ee1-81e8-ec195cead418")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C13")
 					(unit 1)
@@ -5926,7 +5847,7 @@
 			(uuid "2e6ff736-4537-41b3-aab1-f98728510267")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C3")
 					(unit 1)
@@ -6008,7 +5929,7 @@
 			(uuid "bf42aa9a-e8b3-45c9-97dd-1638fea1c05a")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H12")
 					(unit 1)
@@ -6090,7 +6011,7 @@
 			(uuid "b4842e6d-0a35-42b6-9a06-b834c95a8d8d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H11")
 					(unit 1)
@@ -6156,7 +6077,7 @@
 			(uuid "cffec683-921e-4cf5-a2d0-f5c15dab88bf")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR02")
 					(unit 1)
@@ -6234,7 +6155,7 @@
 			(uuid "89f73676-5996-4826-a562-d0e7e22cfdc0")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C4")
 					(unit 1)
@@ -6377,7 +6298,7 @@
 			(uuid "a6f25b0b-da9e-44f2-8ad7-f59b7ab902b7")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "U2")
 					(unit 1)
@@ -6444,7 +6365,7 @@
 			(uuid "bccdcdfb-eee6-4239-a4c3-c4508c7a8ec7")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR09")
 					(unit 1)
@@ -6510,7 +6431,7 @@
 			(uuid "811d0a2f-97a6-4225-9500-99236eee2b6d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR020")
 					(unit 1)
@@ -6588,7 +6509,7 @@
 			(uuid "85561f50-17a1-47ed-b2b4-98896192f54d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C9")
 					(unit 1)
@@ -6670,7 +6591,7 @@
 			(uuid "7a3ac467-87a6-4dec-a607-fc888a72f13f")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H13")
 					(unit 1)
@@ -6736,7 +6657,7 @@
 			(uuid "bc41c198-9a05-45dc-8fa6-e8e4a8954757")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR018")
 					(unit 1)
@@ -6803,7 +6724,7 @@
 			(uuid "65264560-aa7d-455b-b5b5-6aa7fee884ff")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR029")
 					(unit 1)
@@ -6881,7 +6802,7 @@
 			(uuid "979235d2-67c4-40cc-bc49-17e19f7a0796")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C5")
 					(unit 1)
@@ -6947,7 +6868,7 @@
 			(uuid "fb4e9139-34e2-4f29-a233-021b8dd6a68f")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR04")
 					(unit 1)
@@ -7014,7 +6935,7 @@
 			(uuid "31697b35-62b3-43de-b938-59fab295a8e6")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR07")
 					(unit 1)
@@ -7096,9 +7017,88 @@
 			(uuid "745f41a4-a372-47b6-a44c-d53f7611ad63")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_easyeda2kicad:C-0402-0.1uF-16V")
+		(at 95.25 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abbb46e7-0188-4ca1-9213-2d4bdb52daad")
+		(property "Reference" "C16"
+			(at 99.06 72.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C-0402-0.1uF-16V"
+			(at 100.33 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "0_easyeda2kicad:C0402"
+			(at 102.87 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B104KO5NNNC_100nF-104-10-16V_C1525.html"
+			(at 105.41 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1525"
+			(at 107.95 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb00c457-9eec-47d5-9d00-3b4181e0692e")
+		)
+		(pin "1"
+			(uuid "782a4f71-cfe5-4680-98f1-b3ab43275265")
+		)
+		(instances
+			(project "glove-v3.1"
+				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -7163,7 +7163,7 @@
 			(uuid "781b1151-5667-4088-98fc-7104db82a472")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR021")
 					(unit 1)
@@ -7229,7 +7229,7 @@
 			(uuid "6c2c779f-12d3-4944-9b9e-b115ac4129dc")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR06")
 					(unit 1)
@@ -7296,7 +7296,7 @@
 			(uuid "9988f7eb-f86d-440f-ab22-8b435c7171b2")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR031")
 					(unit 1)
@@ -7362,7 +7362,7 @@
 			(uuid "af659b8f-022f-4df1-a752-87d70449b39f")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR024")
 					(unit 1)
@@ -7429,7 +7429,7 @@
 			(uuid "a05147aa-9fa9-4155-9714-af126568a874")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR023")
 					(unit 1)
@@ -7496,7 +7496,7 @@
 			(uuid "a517a79e-f496-4fe0-8e3c-5a166decd1d7")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR017")
 					(unit 1)
@@ -7578,7 +7578,7 @@
 			(uuid "b40e5595-c369-4f11-9a1b-996c6927c7c3")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H3")
 					(unit 1)
@@ -7656,7 +7656,7 @@
 			(uuid "2a2ec7ec-0a7e-40a1-9a6a-b9087d42fee0")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "U3")
 					(unit 1)
@@ -7722,7 +7722,7 @@
 			(uuid "2902a35b-0d2a-4d48-bdb6-bbcf4950decf")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR016")
 					(unit 1)
@@ -7789,7 +7789,7 @@
 			(uuid "1ef0ec29-9a72-4d18-8a02-29318085e072")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR013")
 					(unit 1)
@@ -7855,7 +7855,7 @@
 			(uuid "51768c94-9943-4910-bbda-8783b7cba186")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR026")
 					(unit 1)
@@ -7922,7 +7922,7 @@
 			(uuid "212f3b5e-ca6c-48b6-a3e3-2653cf77dd71")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR025")
 					(unit 1)
@@ -8000,7 +8000,7 @@
 			(uuid "edf28dd4-a192-4011-ac79-11bafed077ee")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C6")
 					(unit 1)
@@ -8066,7 +8066,7 @@
 			(uuid "e19f1741-41db-4713-be2e-3477c4c4d5d7")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR022")
 					(unit 1)
@@ -8148,7 +8148,7 @@
 			(uuid "f2a152be-d30b-48fd-b10f-13fe3f9d6901")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H5")
 					(unit 1)
@@ -8214,7 +8214,7 @@
 			(uuid "9dedad8c-f8f4-4f8b-a47e-614b9b406de6")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR028")
 					(unit 1)
@@ -8296,7 +8296,7 @@
 			(uuid "d7cd68ca-a1e4-4e1d-863b-27924f36879f")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H0")
 					(unit 1)
@@ -8378,7 +8378,7 @@
 			(uuid "4664c24e-c990-4ded-88fc-14cf0f46541d")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H1")
 					(unit 1)
@@ -8444,7 +8444,7 @@
 			(uuid "13427dfd-1c8a-468b-8426-6b89eecdac06")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR032")
 					(unit 1)
@@ -8522,7 +8522,7 @@
 			(uuid "cab0d159-5054-49a1-8311-4154fe9034a5")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "C1")
 					(unit 1)
@@ -8604,7 +8604,7 @@
 			(uuid "75b632c7-1d41-4267-a49a-934178d46825")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "H4")
 					(unit 1)
@@ -8671,7 +8671,7 @@
 			(uuid "017750b4-0b24-4a0f-9191-afbd6decdc04")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR038")
 					(unit 1)
@@ -8737,7 +8737,7 @@
 			(uuid "ea0863a8-ad53-47a7-95f6-30cb66125aa3")
 		)
 		(instances
-			(project "glove-v3"
+			(project "glove-v3.1"
 				(path "/29a0f5b3-0112-40bd-a6f2-14aa548dfb77"
 					(reference "#PWR034")
 					(unit 1)
